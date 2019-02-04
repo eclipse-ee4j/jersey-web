@@ -14,25 +14,30 @@
 
 ### Older Articles
 
-<a class="article" href="http://blog.supol.info/?p=130" target="_blank">Jersey 2.28 Has Been Released</a>
-<br/>
+<h4><a class="article" href="http://blog.supol.info/?p=130" target="_blank">Jersey 2.28 Has Been Released</a></h4>
 Jan 28, 2019 | Jan Supol
 
-<a class="article" href="http://blog.supol.info/?p=131" target="_blank">Glassfish 5.1.0.RC2 is to be released!</a>
-<br/>
+Jersey 2.28 has been released and is available in maven central! Jersey 2.28, the first Jakarta EE implementation of JAX-RS 2.1 has finally been released. [&#8230;]
+
+<h4><a class="article" href="http://blog.supol.info/?p=131" target="_blank">Glassfish 5.1.0.RC2 is to be released!</a></h4>
 Jan 26, 2019 | Jan Supol
 
-<a class="article" href="http://blog.supol.info/?p=126" target="_blank">Jersey 2.28-RC4 has been released</a>
-<br/>
+That’s right, Eclipse Glassfish 5.1.0.RC2, the Jakarta EE implementation, has been published in maven central. [&#8230;]
+
+<h4><a class="article" href="http://blog.supol.info/?p=126" target="_blank">Jersey 2.28-RC4 has been released</a></h4>
 Jan 22, 2019 | Jan Supol
 
-<a class="article" href="http://blog.supol.info/?p=108" target="_blank">Glassfish 5.1.0 is to be released!</a>
-<br/>
+Jersey 2.28-RC4 is available in maven central!  Jersey 2.28-RC4, the first Jakarta EE publicly available version of Jersey, is an almost final version [&#8230;]
+
+<h4><a class="article" href="http://blog.supol.info/?p=108" target="_blank">Glassfish 5.1.0 is to be released!</a></h4>
 Jan 20, 2019 | Jan Supol
 
-<a class="article" href="http://blog.supol.info/?p=104" target="_blank">Happy New Year: But Where Are the Christmas Presents?</a>
-<br/>
+Glassfish Application Server has been the reference implementation of Java EE since Java EE 5. [&#8230;]
+
+<h4><a class="article" href="http://blog.supol.info/?p=104" target="_blank">Happy New Year: But Where Are the Christmas Presents?</a></h4>
 Dec 26, 2018 | Jan Supol
+
+The year 2018 is to be over soon. Christmas is over, but there is no Jakarta EE for a Christmas present –  the Jakarta EE release is postponed to January 2019. Not even Jersey 2.28 is released. [&#8230;]
 
 <h4><a href="http://blog.supol.info/?p=28" target="_blank">Jersey 2.27 Has Been Released</a></h4> 
 Apr 13, 2018 | Jan Supol
@@ -44,7 +49,6 @@ Apr 03, 2018 | Jan Supol
 
 Jersey is on a journey to Eclipse Foundation. There are some consequences, unfortunately, the visible activity around the project is not great. The number of open issues is growing. New pull requests are not accepted. All because of the work being done on the donation [&#8230;]
      
-
 <h4><a href="http://blog.dejavu.sk/2015/03/24/what-to-do-when-jax-rs-cannot-find-its-providers-aka-my-message-body-writer-is-not-used/" target="_blank">What to do when JAX-RS cannot find it&amp;#8217;s Providers aka My message body writer is not used</a></h4>
 Mar 24, 2015 | Michal Gajdoš
 
