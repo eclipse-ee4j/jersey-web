@@ -223,7 +223,7 @@
         </menu>
         <menu name="Project Info">
             <item name="Source Control" href="scm.html" />
-            <item name="Issue Tracking" href="https://github.com/jersey/jersey/issues" />
+            <item name="Issue Tracking" href="https://github.com/eclipse-ee4j/jersey/issues" />
             <item name="Mailing Lists" href="mailing.html" />
             <item name="Project Team" href="team-list.html" />
             <item name="Release Notes" href="release-notes/index.html" />

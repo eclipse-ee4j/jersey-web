@@ -39,7 +39,7 @@
 
     <issueManagement>
         <system>JIRA</system>
-        <url>https://github.com/jersey/jersey/issues</url>
+        <url>https://github.com/eclipse-ee4j/jersey/issues</url>
     </issueManagement>
 
     <ciManagement>

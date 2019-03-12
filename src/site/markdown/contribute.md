@@ -16,7 +16,7 @@
 
 ---
 
-<h2><a class="headerlink" href="https://github.com/jersey/jersey/issues">
+<h2><a class="headerlink" href="https://github.com/eclipse-ee4j/jersey/issues">
     <var class="icon-bug"></var> Report Issues
 </a></h2>
 
@@ -71,7 +71,7 @@ Join our [mailing lists][list] or follow the questions tagged with `jersey` on
 
 
 [stack]: http://stackoverflow.com/questions/tagged/jersey
-[jersey-jira]: https://github.com/jersey/jersey/issues
+[jersey-jira]: https://github.com/eclipse-ee4j/jersey/issues
 [gist]: https://gist.github.com/
 [gpr]: https://help.github.com/articles/using-pull-requests
 
