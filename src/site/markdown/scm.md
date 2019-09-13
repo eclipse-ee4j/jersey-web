@@ -58,6 +58,11 @@ Tag & Branch information:
         <td>This is effectively Jersey 2.x development branch. Development of new features happens here.</td>
     </tr>
     <tr>
+        <td>2.29.1</td>
+        <td>This is the Jersey 2.29.1 release tag. A sustaining branch for Jersey 2.29.1
+        release will be created from the tag if necessary.</td>
+    </tr>
+    <tr>
         <td>2.29</td>
         <td>This is the Jersey 2.29 release tag. A sustaining branch for Jersey 2.29
         release will be created from the tag if necessary.</td>
